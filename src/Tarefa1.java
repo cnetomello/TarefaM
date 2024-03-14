@@ -5,7 +5,6 @@ public class Tarefa1 {
     private int anoLancamento;
     private ArrayList<String> musicas;
 
-    // Construtor
     public Tarefa1(String nome, int anoLancamento) {
         this.nome = nome;
         this.anoLancamento = anoLancamento;
